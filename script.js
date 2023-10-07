@@ -1,7 +1,7 @@
 var DAT = DAT || {};
 
-// blue 0x96ca6
-// green 0x9de3cb
+// blue 0x96ca6 //ფუნქციაში შეცვალე 500ით და არ დამავიწყდეს
+// green 0x9de3cb //ესეც
 
 // green c.setHSL(  0.441, 0.56, 0.75 );
 // blue c.setHSL(  0.558, 0.62, 0.75 );
